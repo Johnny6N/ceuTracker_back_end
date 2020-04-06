@@ -1,0 +1,2 @@
+class Ceu < ApplicationRecord
+end
